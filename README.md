@@ -20,7 +20,7 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 
 | Database | Stored Secrets |
 |-------------------|-------------------|
-| ![as5](./imgg/as5.png) | ![as6](./imgg/as6.png) |
+| ![as6](./imgg/as6.png) | ![as5](./imgg/as5.png) |
 
 ---
 
