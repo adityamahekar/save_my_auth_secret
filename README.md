@@ -1,4 +1,4 @@
-# 🔐 Authorized Secret Storing Web
+## 🔐 Authorized Secret Storing Web
 
 This project is a simple secret-storing platform built with Node.js, Express, EJS, and PostgreSQL.  
 It allows users to register, log in, and store their secrets securely.
@@ -18,9 +18,9 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 |----------------|-----------------|
 | ![as3](./imgg/as3.png) | ![as4](./imgg/as4.png) |
 
-| Database | Stored Secrets |
+| Stored Secrets | Database | 
 |-------------------|-------------------|
-| ![as6](./imgg/as6.png) | ![as5](./imgg/as5.png) |
+|  ![as5](./imgg/as5.png) | ![as6](./imgg/as6.png) |
 
 ---
 
